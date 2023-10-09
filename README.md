@@ -7,7 +7,7 @@
 
 ## Linguagens Mais Utilizadas no GitHub
 
-![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-landin&layout=compact&theme=transparent)
+![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-landin&layout=compact&theme=prussian)
 
 
 ## Habilidades e Tecnologias
