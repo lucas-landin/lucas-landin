@@ -3,11 +3,11 @@
 🦸🏼‍♂️ Pronomes:
   Ele / Dele
 
-📫 Sinta-se à vontade para entrar em contato pelo meu [LinkedIn](https://www.linkedin.com/in/lucas-neder-c-landin-60099923a/).
+📫 [Sinta-se à vontade para entrar em contato pelo meu LinkedIn](https://www.linkedin.com/in/lucas-neder-c-landin-60099923a/).
 
 ## Linguagens Mais Utilizadas no GitHub
 
-![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?lucas-landin&layout=compact)
+![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?pucas30&layout=compact)
 
 
 ## Habilidades e Tecnologias
