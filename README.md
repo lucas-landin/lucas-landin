@@ -1,16 +1,22 @@
-### Hi there 👋
+# Olá, sou Lucas Landin 👋
 
-<!--
-**lucas-landin/lucas-landin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🦸🏼‍♂️ Pronomes:
+  Ele / Dele
 
-Here are some ideas to get you started:
+📫 Sinta-se à vontade para entrar em contato pelo meu [LinkedIn](https://www.linkedin.com/in/lucas-neder-c-landin-60099923a/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Linguagens Mais Utilizadas no GitHub
+
+![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?lucas-landin&layout=compact)
+
+
+## Habilidades e Tecnologias
+
+Aqui estão algumas das tecnologias com as quais trabalho:
+
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="20" height="20"/> [React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript" width="20" height="20"/> [TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="20" height="20"/> [CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
+
+
+Espero que possamos nos conectar e colaborar em projetos interessantes! 😊
