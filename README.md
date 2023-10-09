@@ -1,6 +1,6 @@
 # Olá, sou Lucas Landin 👋
 
-🦸🏼‍♂️ Pronomes:
+🦸🏾‍♂️ Pronomes:
   Ele / Dele
 
 📫 [Sinta-se à vontade para entrar em contato pelo meu LinkedIn](https://www.linkedin.com/in/lucas-neder-c-landin-60099923a/).
